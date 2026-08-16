@@ -70,7 +70,7 @@ For reproducibility, the project uses the Breast Cancer Wisconsin
 ## c. GitHub Repository Link
 
 **Repository:**  
-`ADD-YOUR-GITHUB-REPOSITORY-LINK-HERE`
+https://github.com/satyambitspilani/machine-learning-assignment-2
 
 This link will be updated after the project is pushed to GitHub.
 
