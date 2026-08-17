@@ -1,4 +1,11 @@
 # Machine Learning Assignment 2 — Classification Models
+# Machine Learning Assignment 2
+
+## 🚀 Live Demo
+
+👉 **[Open the Live Streamlit Application](https://machine-learning-assignment-2-app.streamlit.app/)**
+
+The application is deployed using Streamlit Community Cloud and provides an interactive interface for machine learning classification and CSV-based predictions.
 
 ## a. Problem Statement
 
